@@ -1,4 +1,5 @@
 # Scratch Robot de Combate
+![alt text](./V4_2019/Fotos/00ScratchTrofeos.jpg)
 Scratch es un robot de combate creado en su versión inicial para la primera competición de combate de robots de la OSHWDem 2015. 
 En esta competición los robots disputan entre sí buscando desactivar al otro. El fin de la competición no es la violencia, sino el reto de diseñar mecánicamente robots teleoperados robustos y con capacidad de deshabitar al robot contrario. Se trata de una competición amistosa y deportiva en la que los participantes nos conocemos e incluso nos ayudamos en las construcciones y reparaciones. La competición tiene una serie de normas que garantizan que sea un combate justo. El límite de peso son 453 gramos, ya que se trata de la categoría internacional de una libra de peso.
 
@@ -7,6 +8,12 @@ Scratch es un robot de tipo "horizontal spinner", es decir, posee un arma que ro
 
 El cuerpo blanco de SCRATCH es polietileno de alta densidad, que proporciona mucha resistencia al impacto y al corte. Se ha fabricado con una tabla de cortar carne, que fue el primer material que se me vino a la cabeza al pensar en la competición. Las tapas transparentes de la parte de arriba y abajo son de un plástico llamado policarbonato, también muy resistente a impactos. Es el mismo material con el que están hechas las paredes del recinto de combate de la prueba.
 El cuerpo y las tapas de Scratch fueron cortados en la CNC eShapeoko de BricoLabs.
+
+La locomoción se basa en dos ruedas de espuma unidas directamente a motores de 560rpm. Los motores se controlan mediante dos brushed ESCs TinyESC. Su velocidad punta es de 1.58m/s.
+
+Su arma es una barra de titanio que se gira sobre un tornillo M8 de titanio sobre rodamientos, su movimiento se realiza mediante una transmisión de poleas GT2 con relación 0.44444 conectada a un motor brushless de 1380kv. la velocidad punta de su extremo son 140km/h
+
+Scratch se alimenta mediante una batería LiPo de 3 celdas y 450mAh. Y es controlado mediante una emisora y receptor inalámbrico DSM2.
 
 ## Versiones
 * V1 Scratch en su forma original
