@@ -7,7 +7,7 @@ En esta competición los robots disputan entre sí buscando desactivar al otro. 
 Scratch es un robot de tipo "horizontal spinner", es decir, posee un arma que rota en el plano horizontal.
 
 El cuerpo blanco de SCRATCH es polietileno de alta densidad, que proporciona mucha resistencia al impacto y al corte. Se ha fabricado con una tabla de cortar carne, que fue el primer material que se me vino a la cabeza al pensar en la competición. Las tapas transparentes de la parte de arriba y abajo son de un plástico llamado policarbonato, también muy resistente a impactos. Es el mismo material con el que están hechas las paredes del recinto de combate de la prueba.
-El cuerpo y las tapas de Scratch fueron cortados en la CNC eShapeoko de BricoLabs.
+El cuerpo y las tapas de Scratch fueron cortados en la CNC [eShapeoko de BricoLabs](https://bricolabs.cc/wiki/herramientas/eshapeoko).
 
 La locomoción se basa en dos ruedas de espuma unidas directamente a motores de 560rpm. Los motores se controlan mediante dos brushed ESCs TinyESC. Su velocidad punta es de 1.58m/s.
 
