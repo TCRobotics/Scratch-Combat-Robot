@@ -48,11 +48,16 @@ Los archivos de diseño se abren con OpenSCAD, FreeCAD, LibreCAD y LibreOffice:)
 * Scratch vs CuñaBot (Ganador por trampilla) https://youtu.be/JmaqhKAne5U?t=7340
 * Scratch vs Carnicero Vs Rodilla vs 3en1 vs Cuñabot (Segundo puesto por trampilla) https://youtu.be/JmaqhKAne5U?t=7960
 
+2019 
+* Scratch vs Kitty (Ganador por trampilla) https://youtu.be/8XKiy2jLl_E?si=OZ-5t5ZLPfEvQN8w&t=1167
+* Todos contra todos (empate) https://youtu.be/8XKiy2jLl_E?si=0mZX6qgFrXMzlbPP&t=1469
+
 ## Palmarés
-* Segundo puesto por aplausómetro competición de combate OSHWDem 2015
-* Ganador competición de combate OSHWDem 2016
-* Tercer puesto competición de combate OSHWDem 2017
+* Ganador competición de combate OSHWDem 2019
 * Ganador competición de combate OSHWDem 2018
+* Tercer puesto competición de combate OSHWDem 2017
+* Ganador competición de combate OSHWDem 2016
+* Segundo puesto por aplausómetro competición de combate OSHWDem 2015
 
 ## Curiosidades
 El nombre de Scratch viene influenciado por la cación de Sexy Sadie "A scratch in my skin"
