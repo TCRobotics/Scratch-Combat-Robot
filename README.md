@@ -51,8 +51,14 @@ Los archivos de diseño se abren con OpenSCAD, FreeCAD, LibreCAD y LibreOffice:)
 2019 
 * Scratch vs Kitty (Ganador por trampilla) https://youtu.be/8XKiy2jLl_E?si=OZ-5t5ZLPfEvQN8w&t=1167
 * Todos contra todos (empate) https://youtu.be/8XKiy2jLl_E?si=0mZX6qgFrXMzlbPP&t=1469
+* * Pendiente completar
+
+2023
+* Scratch vs Acebot (Ganador por retirada) https://youtu.be/Jt6FAOrRcxY?si=Fcn42CJwKZjFCr8e&t=137
+* Pendiente completar
 
 ## Palmarés
+* Ganador competición de combate OSHWDem 2023
 * Ganador competición de combate OSHWDem 2019
 * Ganador competición de combate OSHWDem 2018
 * Tercer puesto competición de combate OSHWDem 2017
